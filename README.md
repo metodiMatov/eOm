@@ -1,2 +1,0 @@
-# eOm
-long term project
